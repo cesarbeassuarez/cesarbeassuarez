@@ -9,5 +9,5 @@ Cypress · Playwright · CI/CD pipelines<br>
 🧠 What I'm building:<br>
 qa-automation-lab — My automation framework built session by session, with real decisions documented.<br>
 📝 I write about QA, automation, and building a tech career:<br>
-Blog: cesarbeassuarez.dev<br>
-LinkedIn: linkedin.com/in/cesbs
+Blog: [cesarbeassuarez.dev](https://cesarbeassuarez.dev/)<br>
+LinkedIn: [linkedin.com/in/cesbs](https://www.linkedin.com/in/cesbs/)
