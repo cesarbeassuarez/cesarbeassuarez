@@ -1,4 +1,4 @@
-# Julio Cesar Beas Suarez<br>
+# César Beas Suárez<br>
 QA Automation Engineer<br>
 Publico conocimiento sobre testing aplicable en empresas reales.
 <br><br>
