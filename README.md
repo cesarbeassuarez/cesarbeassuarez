@@ -1,5 +1,5 @@
 # César Beas Suárez<br>
-QA Automation Engineer<br>
+QA Automation | QA Analyst<br>
 Publico conocimiento sobre testing aplicable en empresas reales.
 <br><br>
 Blog técnico: [cesarbeassuarez.dev](https://cesarbeassuarez.dev/)<br>
